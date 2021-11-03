@@ -2,4 +2,5 @@
 https://basakkurtlab.github.io/Milton-klon/
 
 
-![milton2](https://user-images.githubusercontent.com/79793959/139825729-a6d3782d-e2dd-4e33-9939-016941c7620c.png)
+
+![milton](https://user-images.githubusercontent.com/79793959/140029935-1cc5c3f9-169c-4719-8c89-813428b4c59d.jpg)
